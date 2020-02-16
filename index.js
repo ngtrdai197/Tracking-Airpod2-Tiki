@@ -4,7 +4,7 @@ const mailer = require('nodemailer');
 
 const urlDevice = `https://tiki.vn/tai-nghe-bluetooth-apple-airpods-2-true-wireless-mv7n2-nhap-khau-chinh-hang-hop-sac-thuong-p46623654.html?src=search&2hi=1&keyword=airpod`;
 
-const PRICE_CAN_BY = 3000000;
+const PRICE_CAN_BY = 4000000;
 const USER = 'nguyendai.dev.clone@gmail.com';
 const PASS = 'Aloalo123';
 
